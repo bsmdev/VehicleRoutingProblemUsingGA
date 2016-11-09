@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1457400727 source:d:\programming\c_cs_cpp\code__blocks\tugas2_ai_1301144360\main.cpp
+	"NodeDanGen.h"
+	<iostream>
+	<cstring>
+	<vector>
+	<ctime>
+	<algorithm>
+	<fstream>
+
+1456661365 d:\programming\c_cs_cpp\code__blocks\tugas2_ai_1301144360\nodedangen.h
+	<cmath>
+
